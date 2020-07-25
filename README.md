@@ -1,1 +1,4 @@
-# apps-config
+# Different app configs
+
+- IntelliJ theme
+- zsh theme
